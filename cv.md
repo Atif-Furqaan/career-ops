@@ -4,7 +4,7 @@
 
 📞 +44 7777 252 120 | 📍 Blackburn, UK  
 📧 aleem.rashid786@gmail.com (primary) / atifurqaan@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/atif-furqaan) | 🌐 [Portfolio](https://atifurqaan.wixsite.com/myworkspace)
+🔗 [LinkedIn](https://www.linkedin.com/in/atif-furqaan) | 🌐 [Portfolio](https://portfolio-atif-furqaan.vercel.app)
 
 ---
 
